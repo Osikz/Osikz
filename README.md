@@ -1,7 +1,7 @@
 Hi there 👋 I'm Oskars Jaunslavietis
 
  I am an aspiring software developer, currently developing my C#/.Net skills,
- but I am always open to learning something new.
+ but I am always looking forward to expanding my skills.
 
 📫 You can reach me on: 
 - 📧 o.jaunslavietis@gmail.com
