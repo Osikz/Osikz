@@ -20,3 +20,5 @@ Hi there 👋 I'm Oskars Jaunslavietis
  - Design Patterns
  - HTML & CSS, TypeScript & NodeJS basics
 ---
+
+Projects: <br/><a href=https://github.com/Osikz/flight-planner>Flight Planner<a/>
